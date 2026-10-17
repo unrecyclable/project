@@ -1,0 +1,6 @@
+[submodule "H7"]
+	path = H7
+	url = https://github.com/unrecyclable/H7.git
+[submodule "main_board"]
+	path = main_board
+	url = https://github.com/unrecyclable/main_board.git
