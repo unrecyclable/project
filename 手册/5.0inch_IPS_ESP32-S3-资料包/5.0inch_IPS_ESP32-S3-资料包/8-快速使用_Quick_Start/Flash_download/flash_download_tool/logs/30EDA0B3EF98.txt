@@ -1,0 +1,69 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260526-17:12
+Connect baud: 115200
+Com:COM19
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+Wrote 732112 bytes (390406 compressed) at 0x00000000 in 5.8 seconds (effective 1001.2 kbit/s)...
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+File  md5: 37bac0042b72b3d228e60492535ad9c8
+Flash md5: 37bac0042b72b3d228e60492535ad9c8
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260526-17:13
+Connect baud: 115200
+Com:COM19
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\4.3inch_ESP32-S3_IPS_Production_LVGL_Test20260429.bin
+Wrote 792096 bytes (430340 compressed) at 0x00000000 in 6.4 seconds (effective 991.7 kbit/s)...
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\4.3inch_ESP32-S3_IPS_Production_LVGL_Test20260429.bin
+File  md5: 23630354f96f09f2c350b5ece7d8b6e5
+Flash md5: 23630354f96f09f2c350b5ece7d8b6e5
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260526-17:13
+Connect baud: 115200
+Com:COM19
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\4.3inch_ESP32-S3_IPS_Production_LVGL_Test20260429.bin
+Wrote 792096 bytes (430340 compressed) at 0x00000000 in 6.4 seconds (effective 993.5 kbit/s)...
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\4.3inch_ESP32-S3_IPS_Production_LVGL_Test20260429.bin
+File  md5: 23630354f96f09f2c350b5ece7d8b6e5
+Flash md5: 23630354f96f09f2c350b5ece7d8b6e5
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+

@@ -1,0 +1,41 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260603-10:46
+Connect baud: 115200
+Com:COM19
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.bootloader.bin
+address/file: 32768 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.partitions.bin
+address/file: 57344 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+address/file: 65536 G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.bin
+Wrote 20208 bytes (13058 compressed) at 0x00000000 in 0.3 seconds (effective 545.4 kbit/s)...
+Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 1169.3 kbit/s)...
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 1414.2 kbit/s)...
+Wrote 749392 bytes (428362 compressed) at 0x00010000 in 6.2 seconds (effective 962.0 kbit/s)...
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.bootloader.bin
+File  md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Flash md5: 3a1751f965c8e51e47513a9c42a7d3c8
+Hash of data verified.
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.partitions.bin
+File  md5: ba686c6c6fdf2b963448683d5bbd8380
+Flash md5: ba686c6c6fdf2b963448683d5bbd8380
+Hash of data verified.
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\boot_app0.bin
+File  md5: e6327541e2dc394ca2c3b3280ac0f39f
+Flash md5: e6327541e2dc394ca2c3b3280ac0f39f
+Hash of data verified.
+File: G:\5inch_ESP32S3\5inch_IPS_ESP32-S3_ES3C50P_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\Lvgl.ino.bin
+File  md5: 8dd41a122e4613b7a0850fc1c47f90cb
+Flash md5: 8dd41a122e4613b7a0850fc1c47f90cb
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 11 s
+Download result: PASS
+*************************** END ****************************
+

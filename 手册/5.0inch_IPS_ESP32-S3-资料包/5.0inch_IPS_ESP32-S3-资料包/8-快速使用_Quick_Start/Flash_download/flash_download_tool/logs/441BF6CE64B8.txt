@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260423-11:37
+Connect baud: 115200
+Com:COM18
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\2.8inch_ESP32-S3_Production_Test(1).bin
+Wrote 2118768 bytes (1387920 compressed) at 0x00000000 in 14.4 seconds (effective 1177.3 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\2.8inch_ESP32-S3_Production_Test(1).bin
+File  md5: ae9ac08244a021b99a6da0f865e2f608
+Flash md5: ae9ac08244a021b99a6da0f865e2f608
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 20 s
+Download result: PASS
+*************************** END ****************************
+

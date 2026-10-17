@@ -1,0 +1,172 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-09:31
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+Wrote 5240080 bytes (2646666 compressed) at 0x00000000 in 32.6 seconds (effective 1286.7 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+File  md5: 10080cb8e410282c911c2304f5c085f2
+Flash md5: 10080cb8e410282c911c2304f5c085f2
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 44 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-13:38
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+Wrote 830960 bytes (439727 compressed) at 0x00000000 in 5.7 seconds (effective 1166.4 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+File  md5: 5db59cf5b3bc41367e607bd1b799967f
+Flash md5: 5db59cf5b3bc41367e607bd1b799967f
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 8 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-14:00
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+Wrote 5240080 bytes (2646666 compressed) at 0x00000000 in 36.2 seconds (effective 1158.2 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+File  md5: 10080cb8e410282c911c2304f5c085f2
+Flash md5: 10080cb8e410282c911c2304f5c085f2
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 49 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-15:13
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+Wrote 5240080 bytes (2646666 compressed) at 0x00000000 in 36.2 seconds (effective 1157.8 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+File  md5: 10080cb8e410282c911c2304f5c085f2
+Flash md5: 10080cb8e410282c911c2304f5c085f2
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 49 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-19:18
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+Wrote 5240080 bytes (2646666 compressed) at 0x00000000 in 37.1 seconds (effective 1129.1 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+File  md5: 10080cb8e410282c911c2304f5c085f2
+Flash md5: 10080cb8e410282c911c2304f5c085f2
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 50 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-19:19
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260408-19:19
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+Wrote 830960 bytes (439727 compressed) at 0x00000000 in 5.8 seconds (effective 1137.3 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\lv_demo_widgets.bin
+File  md5: 5db59cf5b3bc41367e607bd1b799967f
+Flash md5: 5db59cf5b3bc41367e607bd1b799967f
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 9 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260410-10:13
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x4018
+fs:0x100200
+address/file: 0 G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+Wrote 5240080 bytes (2646666 compressed) at 0x00000000 in 37.5 seconds (effective 1116.9 kbit/s)...
+File: G:\3.5inch_ESP32-S3-资料包\8-快速使用_Quick_Start\Flash_download\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\common.bin
+File  md5: 10080cb8e410282c911c2304f5c085f2
+Flash md5: 10080cb8e410282c911c2304f5c085f2
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 50 s
+Download result: PASS
+*************************** END ****************************
+
