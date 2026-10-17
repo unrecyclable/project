@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test" type="CompoundRunConfigurationType">
+    <toRun name="control" type="PythonConfigurationType" />
+    <toRun name="printf" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

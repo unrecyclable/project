@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"port\startup_stm32f103xb.o"
+"port\sonar.o"
+"port\main.o"
+"port\stm32f1xx_it.o"
+"port\stm32f1xx_hal_msp.o"
+"port\stm32f1xx_hal_gpio_ex.o"
+"port\stm32f1xx_hal_can.o"
+"port\stm32f1xx_hal.o"
+"port\stm32f1xx_hal_rcc.o"
+"port\stm32f1xx_hal_rcc_ex.o"
+"port\stm32f1xx_hal_gpio.o"
+"port\stm32f1xx_hal_dma.o"
+"port\stm32f1xx_hal_cortex.o"
+"port\stm32f1xx_hal_pwr.o"
+"port\stm32f1xx_hal_flash.o"
+"port\stm32f1xx_hal_flash_ex.o"
+"port\stm32f1xx_hal_exti.o"
+"port\stm32f1xx_hal_tim.o"
+"port\stm32f1xx_hal_tim_ex.o"
+"port\stm32f1xx_hal_uart.o"
+"port\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "port\port.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "port.map" -o port\port.axf

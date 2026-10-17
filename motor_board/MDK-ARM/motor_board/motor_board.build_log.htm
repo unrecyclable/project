@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>�Vision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ��Vision V5.28.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: li chen, hitwh, LIC=GE7DL-0JTSW-UMM9A-1SJN6-8FH82-D6IL7
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.28.0.0
+Toolchain Path:  D:\keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.28.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      CMSIS_AGDI.dll V1.31.18.0
+Dialog DLL:      TCM.DLL V1.36.2.0
+ 
+<h2>Project:</h2>
+D:\WORK\project\motor_board\MDK-ARM\motor_board.uvprojx
+Project File Date:  08/01/2026
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\keil5\ARM\ARMCC\Bin'
+Build target 'motor_board'
+compiling main.c...
+../mylib/usart/serial.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+../mylib/pwm/pwm.h(6): warning:  #1295-D: Deprecated declaration pwm_init - give arg types
+  void pwm_init();
+../mylib/pwm/pwm.h(7): warning:  #1-D: last line of file ends without a newline
+  void pwm_stop();
+../mylib/pwm/pwm.h(7): warning:  #1295-D: Deprecated declaration pwm_stop - give arg types
+  void pwm_stop();
+../mylib/usart/serial.h(12): warning:  #1295-D: Deprecated declaration serial_init - give arg types
+  void serial_init();
+../mylib/usart/serial.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+../mylib/pwm/pwm.h(6): warning:  #1295-D: Deprecated declaration pwm_init - give arg types
+  void pwm_init();
+../mylib/pwm/pwm.h(7): warning:  #1-D: last line of file ends without a newline
+  void pwm_stop();
+../mylib/pwm/pwm.h(7): warning:  #1295-D: Deprecated declaration pwm_stop - give arg types
+  void pwm_stop();
+../Core/Src/main.c(167): warning:  #188-D: enumerated type mixed with another type
+  	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);//磁铁
+../Core/Src/main.c(190): warning:  #188-D: enumerated type mixed with another type
+  					HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,0);//磁铁
+../Core/Src/main.c(194): warning:  #188-D: enumerated type mixed with another type
+  					HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);//磁铁
+../Core/Src/main.c: 12 warnings, 0 errors
+linking...
+Program Size: Code=11908 RO-data=292 RW-data=20 ZI-data=2324  
+FromELF: creating hex file...
+"motor_board\motor_board.axf" - 0 Error(s), 12 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.5.1.pack
+                ARM.CMSIS.5.5.1
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.2.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.1.0.pack
+                Keil.STM32F1xx_DFP.2.1.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_motor_board
+  D:\keil5\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include
+  D:\keil5\Packs\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.2.0
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

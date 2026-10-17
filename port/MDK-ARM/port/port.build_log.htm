@@ -1,0 +1,71 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.28.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: li chen, hitwh, LIC=GE7DL-0JTSW-UMM9A-1SJN6-8FH82-D6IL7
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.28.0.0
+Toolchain Path:  D:\keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.28.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      CMSIS_AGDI.dll V1.31.18.0
+Dialog DLL:      TCM.DLL V1.36.2.0
+ 
+<h2>Project:</h2>
+D:\WORK\project\port\MDK-ARM\port.uvprojx
+Project File Date:  06/26/2026
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\keil5\ARM\ARMCC\Bin'
+Build target 'port'
+compiling main.c...
+../Core/Inc/main.h(40): warning:  #1295-D: Deprecated declaration UART2_IT - give arg types
+  void UART2_IT();
+../Core/Src/main.c(121): warning:  #177-D: variable "data"  was declared but never referenced
+  				uint8_t data[7]={0x01,0x6a,0x07,0x01,0xff,0x3f,0xb1};
+../Core/Src/main.c(316): warning:  #185-D: dynamic initialization in unreachable code
+  uint8_t data[8]={0x01,0x02,0x03};
+../Core/Src/main.c(278): warning:  #177-D: variable "pack1"  was declared but never referenced
+  				uint8_t pack1[8]={0x01,0x06,0x02,0x3f,0x00,0x00,0xb8,0x7e};
+../Core/Src/main.c(280): warning:  #177-D: variable "pack3"  was declared but never referenced
+  		uint8_t pack3[8]={0x01,0x03,0x02,0x01,0x00,0x01,0xd4,0x72};
+../Core/Src/main.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=12456 RO-data=292 RW-data=36 ZI-data=1668  
+FromELF: creating hex file...
+"port\port.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.5.1.pack
+                ARM.CMSIS.5.5.1
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.2.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.1.0.pack
+                Keil.STM32F1xx_DFP.2.1.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_port
+  D:\keil5\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include
+  D:\keil5\Packs\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.2.0
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>
